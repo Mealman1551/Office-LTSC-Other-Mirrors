@@ -1,6 +1,6 @@
 # Downloads
 
-[![7zip](https://img.shields.io/badge/.7z-0072C6?style=for-the-badge&logo=7zip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.7z)
+[![7zip](https://img.shields.io/badge/.7z-0072C6?style=for-the-badge&logo=sevenzip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.7z)
 
 [![cab](https://img.shields.io/badge/.cab-FFD700?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.cab)
 
