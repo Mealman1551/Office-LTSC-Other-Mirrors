@@ -1,15 +1,17 @@
 # Downloads
-- 7zip: https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.7z
 
-- cab: https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.cab
+[![7zip](https://img.shields.io/badge/.7z-0072C6?style=for-the-badge&logo=7zip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.7z)
 
-- iso: https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.iso
+[![cab](https://img.shields.io/badge/.cab-FFD700?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.cab)
 
-- rar: https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.rar
+[![iso](https://img.shields.io/badge/.iso-008080?style=for-the-badge&logo=cd-rom&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.iso)
 
-- tar: https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.tar
+[![rar](https://img.shields.io/badge/.rar-CC0000?style=for-the-badge&logo=winrar&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.rar)
 
-- wim: https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.wim
+[![tar](https://img.shields.io/badge/.tar-EE6C4D?style=for-the-badge&logo=archive&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.tar)
+
+[![wim](https://img.shields.io/badge/.wim-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.wim)
 
 ## Classic (Zip)
-- zip: https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip
+
+[![zip](https://img.shields.io/badge/.zip-4CAF50?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
