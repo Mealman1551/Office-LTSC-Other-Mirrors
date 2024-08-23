@@ -1,3 +1,5 @@
+***For documentation go [here](https://github.com/Mealman1551/Office-LTSC-Installer/blob/main/README.md)***
+
 # Downloads
 
 [![7zip](https://img.shields.io/badge/.7z-0072C6?style=for-the-badge&logo=sevenzip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.7z)
