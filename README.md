@@ -2,7 +2,7 @@
 
 # Downloads
 
-Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png" alt="Windows 10" width="25"/> & <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Windows_logo_-_2021.svg/2048px-Windows_logo_-_2021.svg.png" alt="Windows 11" width="25"/> 
+Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/480px-Windows_logo_2012-Black.svg.png" alt="Windows 10" width="25"/> **&** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Windows_logo_-_2021_%28Black%29.svg/480px-Windows_logo_-_2021_%28Black%29.svg.png" alt="Windows 11" width="25"/> 
 
 [![7zip](https://img.shields.io/badge/.7z-0072C6?style=for-the-badge&logo=sevenzip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.7z)
 
