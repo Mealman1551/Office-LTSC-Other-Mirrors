@@ -21,19 +21,19 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 
 ### FAQ's
 - _Why 7zip?_
-  7Zip has a slightly better compression ratio than zip.- 
+  7Zip has a slightly better compression ratio than zip.
 
 - _Why cab?_
   Cab is a Windows Cabinet file suitable for distribution of Microsoft, windows and Driver software, Office is Microsoft software so the cab download is also available.
   
 - _Why iso?_
-  Iso is a very good format for app-suite types of distribution, as it is like a external software disk
+  Iso is a very good format for app-suite types of distribution, as it is like a external software disk.
 
 - _Why rar?_
   Rar is the best compression format on Windows, many users still use zip but this is also a option if you want to use low storing options when downloading Office-LTSC-Installer.
 
 - _Why tar?_
-  Tar is a really handy format, as it doesn't compress, so not changing data, but still a archive container.
+  Tar is a really handy format, as it doesn't compress, so not changing data, but still an archive container.
 
 - _Why Wim?_
   Wim is for some older devices better to open than zip.
