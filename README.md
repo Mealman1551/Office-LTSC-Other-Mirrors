@@ -32,7 +32,7 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 - _Why rar?_
   Rar is the best compression format on Windows, many users still use zip but this is also a option if you want to use low storing options when downloading Office-LTSC-Installer.
 
-_ _Why tar?_
+- _Why tar?_
   Tar is a really handy format, as it doesn't compress, so not changing data, but still a archive container.
 
 - _Why Wim?_
