@@ -20,6 +20,9 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 [![zip](https://img.shields.io/badge/.zip-4CAF50?style=for-the-badge&logo=zip&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
 
 ### FAQ's
+- _Wtf is adc?_
+  Adc is my own compressed archive format, documentation and download [here](Link not working yet)
+
 - _Why 7zip?_
   7Zip has a slightly better compression ratio than zip.
 
