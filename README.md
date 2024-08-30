@@ -21,7 +21,7 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 
 ### FAQ's
 - _Wtf is adc?_
-  Adc is my own compressed archive format, documentation and download [here](Link not working yet)
+  Adc is my own compressed archive format, documentation and download [here](https://gist.githubusercontent.com/Mealman1551/905f5b743982a6b874911bc65bb0b0fb/raw/b0bdf76218bbd6bc82d803c24b11be11f883460a/gistfile1.txt)
 
 - _Why 7zip?_
   7Zip has a slightly better compression ratio than zip.
