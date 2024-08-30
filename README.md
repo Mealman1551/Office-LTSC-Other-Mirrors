@@ -38,6 +38,6 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 - _Why Wim?_
   Wim is for some older devices better to open than zip.
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-blue?style=for-the-badge)
+![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Mealman1551-blue?style=for-the-badge)
 
 ###### © 2024 Mealman1551
