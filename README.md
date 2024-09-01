@@ -15,7 +15,7 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 
 [![wim](https://img.shields.io/badge/.wim-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.wim)
 
-[![Adc](https://img.shields.io/badge/.adc-600088?style=for-the-badge&logo=adc&logoColor=white)](https://gist.githubusercontent.com/Mealman1551/905f5b743982a6b874911bc65bb0b0fb/raw/b0bdf76218bbd6bc82d803c24b11be11f883460a/gistfile1.txt)
+[![Adc](https://img.shields.io/badge/.adc-600088?style=for-the-badge&logo=adc&logoColor=white)](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/raw/main/Microsoft%20Office%202021%20ProPlus.adc)
 
 ## Classic (Zip)
 
@@ -23,7 +23,7 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 
 ### FAQ's
 - _Wtf is adc?_
-  Adc is my own compressed archive format, documentation and download [here](https://gist.githubusercontent.com/Mealman1551/905f5b743982a6b874911bc65bb0b0fb/raw/b0bdf76218bbd6bc82d803c24b11be11f883460a/gistfile1.txt)
+  Adc is my own compressed archive format, documentation and download [here](https://github.com/Mealman1551/ADC)
 
 - _Why 7zip?_
   7Zip has a slightly better compression ratio than zip.
